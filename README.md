@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kousei74&label=Profile%20views&color=0e75b6&style=flat" alt="kousei74" /> </p>
 <br>
 
-<img align="right" alt="Coding" border-radius width="325" src="https://store.outsourcingpundit.com/wp-content/uploads/2019/01/focus-animation.gif">
+<img align="right" alt="Coding"  width="317" src="https://store.outsourcingpundit.com/wp-content/uploads/2019/01/focus-animation.gif">
 
 - 🔭 **B.Tech** in **Computer and Communication**, **MIT**
 
