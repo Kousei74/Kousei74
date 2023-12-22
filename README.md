@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" border-radius width="325" src="https://store.outsourcingpundit.com/wp-content/uploads/2019/01/focus-animation.gif">
 
-- 🔭 3rd year, Manipal Institute of Technology
+- 🔭 B.Tech in Computer and Communication, Manipal Institute of Technology
 
 - 📚 Looking for remote SDE Internships
 
