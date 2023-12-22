@@ -8,7 +8,7 @@
 
 - 🔭 3rd year, Manipal Institute of Technology
 
-- 📚 Currently learning Tensorflow and PyTorch
+- 📚 Looking for remote SDE Internships
 
 - 💬 Ask me about **machine learning, data structures**
 
