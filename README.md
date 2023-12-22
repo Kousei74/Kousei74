@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" border-radius width="325" src="https://store.outsourcingpundit.com/wp-content/uploads/2019/01/focus-animation.gif">
 
-- 🔭 B.Tech in Computer and Communication, Manipal Institute of Technology
+- 🔭 **B.Tech** in **Computer and Communication**, **MIT**
 
 - 📚 Looking for remote SDE Internships
 
