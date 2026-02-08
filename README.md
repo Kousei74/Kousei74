@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: **poddarsuvam07@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1-Rp33dTE06due8iBwiFCH5n11SbG2ZQe/view?usp=sharing)
+- 📄 Know about my experiences: [Resume]([https://drive.google.com/file/d/1-Rp33dTE06due8iBwiFCH5n11SbG2ZQe/view?usp=sharing](https://drive.google.com/file/d/14WXh-_vPTKpHTpOeOa5iYlcXTNq_trta/view?usp=sharing))
 
 - ⚡ Hobbies **Part-time musician, love modding custom keyboards**
 
